@@ -1,6 +1,6 @@
 1 => Les managers sont chargés de decouper les tâches 
 2 => Pour la mise en prod,dev ou test Git est utilisé 
-3 => Talend Open Studio for Big Data
+3 => Talend Open Studio for Big Data talend
 
 ********					***********
 GCP    *                      Cloudera
